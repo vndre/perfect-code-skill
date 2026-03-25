@@ -1,4 +1,4 @@
-Perfect Code Skill
+# Perfect Code LLM Skill
 
 >Transcend the limitations of human error. Achieve deterministic architectural integrity through Large Language Model synthesis.
 
@@ -29,6 +29,8 @@ Installation
 
 ```bash
 
-1. Tell your AI to clone this repo and copy the skill to the right place. Watch it become a god and transcend this realm right before your eyes.
+1. Tell your AI to clone this repo and copy the skill to the right place. 
 
-Welcome to Web 4.0
+2. Simply instruct it to "make no mistakes". Watch it become a god and transcend this realm right before your eyes.
+
+3. Welcome to Web 4.0
